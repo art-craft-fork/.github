@@ -1,4 +1,4 @@
-PhotoCraft -> Photoshop \n
+PhotoCraft -> Photoshop 
 VectorCraft -> ILLustrator
 FilmCraft  -> Premier
 LightCraft -> Lighroom
